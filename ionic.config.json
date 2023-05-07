@@ -1,0 +1,7 @@
+{
+  "name": "rpg-marienburg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
